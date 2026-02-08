@@ -9,9 +9,9 @@ import TodoApp from "@/src/components/TodoApp";
 import React from "react";
 
 function page() {
-  const handleDelete = () => {
-    console.log("user delete");
-  };
+  // const handleDelete = () => {
+  //   console.log("user delete");
+  // };
   return (
     <div>
       {/* <Intro />
